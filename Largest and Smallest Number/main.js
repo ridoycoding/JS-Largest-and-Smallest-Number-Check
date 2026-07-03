@@ -11,7 +11,7 @@ if (a > b && a > c) {
        console.log( "Min number is : C")
     }
 } else if (b > a && b > c) {
-   console.log("Min number is : B")
+   console.log("Max number is : B")
     if (a < c) {
        console.log( "Min number is : A")
     } else {
